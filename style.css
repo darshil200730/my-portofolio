@@ -1,0 +1,30 @@
+.heading{
+    height:100px;
+    color:white;
+    font-Size:2cm;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 4cm;
+}
+body{
+    background-color: #0080ff;
+}
+.first{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 4cm;
+    background-color: #1261A0;
+    margin-top: 4cm;
+    padding: 2cm;
+}
+img{
+    border-style: double;
+    border-color: blue;
+    border-radius: 4cm;
+}
+h1{
+    font-family:'broadway';
+}
